@@ -1,0 +1,9 @@
+
+.icon-location-circled:before { content: '\e800'; } /* '' */
+.icon-gmail:before { content: '\e801'; } /* '' */
+.icon-user:before { content: '\e802'; } /* '' */
+.icon-login:before { content: '\e803'; } /* '' */
+.icon-mail:before { content: '\e804'; } /* '' */
+.icon-table:before { content: '\f0ce'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-comment-empty:before { content: '\f0e5'; } /* '' */

@@ -1,0 +1,149 @@
+body
+{
+    background-color: #33CCCC;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20px;
+}
+
+#baner
+{
+    background-color: #4F4F4F;
+    width: 950px;
+    font-size: 90px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#menu
+{
+    background-color: #F9F9F9;
+    width: 320px;
+
+
+    float: left;
+}
+
+#main
+{   min-height: 520px;
+    height: min-content;
+    background-color: #C2C2C2;
+    width: 630px;
+
+    float: left;
+}
+
+#footer
+{
+    background-color: #4F4F4F;
+    width: 950px;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.motto
+{
+    width: 630px;
+    background-color: #3095d3;
+    text-align: center;
+    font-size: 26px;
+    line-height: 150%;
+}
+a.tilelink
+{
+    color: #444444;
+    text-decoration: none;
+    display: block;
+    height: 100px;
+}
+.zarejestruj
+{
+    width: 320px;
+    height:80px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+.zarejestruj:hover
+{
+    background-color: #2084c2;
+}
+.administrator
+{
+    text-decoration: none;
+    display: block;
+    justify-content: space-between;
+    width: 320px;
+    height:80px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+.administrator:hover
+{
+    background-color: #2084c2;
+}
+.kontakt
+{
+    width: 320px;
+    height:72px;
+    background-color: #93c748;
+    float: left;
+    text-align: center;
+}
+.kontakt:hover
+{
+    background-color: #82b637;
+}
+.lokalizacja
+{
+    width: 320px;
+    height:80px;
+    background-color: #666666;
+    float: left;
+    text-align: center;
+}
+.lokalizacja:hover
+{
+    background-color: #555555;
+}
+
+#zegar
+{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    text-align: left;
+}
+main {
+    text-align: center;
+}
+
+section.form,
+section.entries {
+    max-width: 600px;
+    margin: auto;
+}
+
+label {
+    margin: 10px;
+    display: block;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    margin: 10px;
+    width: 30%;
+}
+
+.entry {
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+}
